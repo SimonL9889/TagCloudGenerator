@@ -16,7 +16,7 @@ import components.sortingmachine.SortingMachine1L;
  * A program that asks for an input text file and output a html file listing all
  * words and the time they appeared.
  *
- * @author Simon Lei & ZhengYi Hu
+ * @author MengQi Lei
  *
  */
 public final class TagCloudGenerator {
